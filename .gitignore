@@ -1,0 +1,8 @@
+.pantry-db.json
+.pantry-db.json.tmp
+.env
+.env.*
+.runtime/
+.venv/
+__pycache__/
+*.py[cod]
